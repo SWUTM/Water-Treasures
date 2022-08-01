@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: watertreasures
+Specification-Vendor: watertreasuressareus
+Specification-Version: 1
+Implementation-Title: watertreasures
+Implementation-Version: 1.2.1-1.18.2
+Implementation-Vendor: watertreasuressareus
+Implementation-Timestamp: 2022-08-01T01:11:54+0300
+
