@@ -63,4 +63,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis lacinia magn
 [[dependencies.watertreasures]]
 modId = "morenugget"
 mandatory = true
-versionRange = "[1.0-1.19,)"
+versionRange = "[1.1.2-1.19-1.19.2,)"

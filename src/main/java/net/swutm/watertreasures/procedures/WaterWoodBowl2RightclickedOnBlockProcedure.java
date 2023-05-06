@@ -36,7 +36,7 @@ public class WaterWoodBowl2RightclickedOnBlockProcedure {
 			if (world instanceof ServerLevel _level)
 				_level.getServer().getCommands().performCommand(new CommandSourceStack(CommandSource.NULL, new Vec3(x, y, z), Vec2.ZERO, _level, 4,
 						"", Component.literal(""), _level.getServer(), null).withSuppressedOutput(),
-						"/loot spawn ~ ~ ~ loot morenugget:blocks/water_bowl");
+						"/loot spawn ~ ~ ~ loot morenugget:blocks/water_treasures");
 		}
 	}
 }
